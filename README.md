@@ -1,4 +1,4 @@
-## Olá, 
+## Olá, bem vindo ao meu perfil.
 
 Eu sou o Gustavo de Freitas Rodrigues, estudante de Análise e Desenvolvimento de Sistemas.
 
