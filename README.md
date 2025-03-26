@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu perfil.
 
-Eu sou o Gustavo de Freitas Rodrigues, estudante de Análise e Desenvolvimento de Sistemas.
+Eu sou o Gustavo de Freitas Rodrigues, formado em Análise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
