@@ -1,3 +1,3 @@
-## Olá, bem vindo ao meu perfil.
+## Hello, welcome to my profile!
 
-Eu sou o Gustavo de Freitas Rodrigues, formado em Análise e Desenvolvimento de Sistemas.
+My name is Gustavo de Freitas Rodrigues. I hold a degree in Systems Analysis and Development from FAESA and I am currently studying Software Engineering and DevOps at PUC Minas.
