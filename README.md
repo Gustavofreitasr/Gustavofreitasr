@@ -22,4 +22,3 @@ Especialista em viabilizar operações resilientes e escaláveis, unindo a robus
 ### 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofreitasr/) 
 [![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://gustavofreitas.vercel.app/)
-[![Blog](https://img.shields.io/badge/Blog_Técnico-121011?style=flat-square&logo=github&logoColor=white)](https://gustavofreitas.vercel.app/)
