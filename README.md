@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Gustavo%20Freitas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Infraestrutura%20%7C%20DevOps%20%26%20Cloud&descAlignY=58&descSize=18&descColor=cce4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0078D4&amp;height=200&amp;section=header&amp;text=Gustavo%20Freitas&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Analista%20de%20Infraestrutura%20%7C%20DevOps%20%26%20Cloud&amp;descAlignY=58&amp;descSize=18&amp;descColor=cce4ff" width="100%"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&width=650&lines=Windows+Server+%7C+Active+Directory+%7C+Linux;Docker+%7C+Kubernetes+%7C+Microsoft+Azure;Zabbix+%7C+Grafana+%7C+GLPI;Next.js+%7C+React+%7C+Python+%7C+Node.js;Pós-graduando+em+DevOps+%40+PUC+Minas+🎓)
 
@@ -35,6 +35,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-6C47FF?style=for-the-badge&logo=coolify&logoColor=white)
 
 **Monitoramento**
