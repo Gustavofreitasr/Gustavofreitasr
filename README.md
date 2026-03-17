@@ -60,8 +60,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofreitasrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavofreitasr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -88,6 +88,6 @@
 <!-- Rodapé animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" width="100%"/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME_AQUI.SEU_USERNAME_AQUI)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gustavofreitasr)
 
 </div>
