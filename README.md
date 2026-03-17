@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0078D4&amp;height=200&amp;section=header&amp;text=Gustavo%20Freitas&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Analista%20de%20Infraestrutura%20%7C%20DevOps%20%26%20Cloud&amp;descAlignY=58&amp;descSize=18&amp;descColor=cce4ff" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&width=650&lines=Windows+Server+%7C+Active+Directory+%7C+Linux;Docker+%7C+Kubernetes+%7C+Microsoft+Azure;Zabbix+%7C+Grafana+%7C+GLPI;Next.js+%7C+React+%7C+Python+%7C+Node.js;Pós-graduando+em+DevOps+%40+PUC+Minas+🎓)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=0078D4&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Windows+Server+%7C+Active+Directory+%7C+Linux;Docker+%7C+Kubernetes+%7C+Microsoft+Azure;Zabbix+%7C+Grafana+%7C+GLPI;Next.js+%7C+React+%7C+Python+%7C+Node.js;Pos-graduando+em+DevOps+%40+PUC+Minas" alt="Typing SVG"/>
 
 </div>
 
