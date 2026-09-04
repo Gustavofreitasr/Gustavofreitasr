@@ -1,8 +1,14 @@
 # Olá, eu sou o Gustavo Freitas! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0078D4&width=650&lines=Analista+de+Infraestrutura+%7C+DevOps+%26+Cloud;Windows+Server+%7C+Active+Directory+%7C+Linux;Docker+%7C+Kubernetes+%7C+Microsoft+Azure;Zabbix+%7C+Grafana+%7C+GLPI;Pos-graduando+em+DevOps+%40+PUC+Minas)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&width=650&lines=DevOps+Engineer+%7C+8%2B+anos+em+tecnologia;Da+infraestrutura+cr%C3%ADtica+%C3%A0+entrega+cont%C3%ADnua;Azure+DevOps+%7C+CI%2FCD+%7C+Docker+%7C+Python;Windows+Server+%7C+Linux+%7C+pfSense+%7C+Zabbix;Pos-graduando+em+DevOps+%40+PUC+Minas)
 
-**Especialista em viabilizar operações resilientes e escaláveis, unindo a robustez do Windows Server à agilidade das arquiteturas Cloud-Native.**
+**DevOps Engineer com mais de 8 anos em tecnologia, construídos de baixo para cima:
+suporte técnico, redes, servidores e infraestrutura crítica — hoje aplicados em
+automação, containers e entrega contínua.**
+
+> Isso muda como eu trabalho: **não automatizo no escuro.** Quando escrevo um pipeline
+> ou subo um container, conheço o sistema operacional, a rede e o hardware embaixo
+> dele, porque já os administrei na mão.
 
 ---
 
@@ -13,59 +19,71 @@
 
 ---
 
-### 🛠️ Tech Stack & Foco
+### 🛠️ Stack
 
-**Infraestrutura**
+**DevOps & Cloud**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6C47FF?style=for-the-badge&logo=coolify&logoColor=white)
+
+**Infraestrutura & Redes**
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003399?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-6C47FF?style=for-the-badge&logo=coolify&logoColor=white)
-
-**Monitoramento**
+**Observabilidade**
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GLPI](https://img.shields.io/badge/GLPI-009C98?style=for-the-badge&logo=glpi&logoColor=white)
 
-**Desenvolvimento**
+**Automação & Desenvolvimento**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Banco de Dados**
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### 🚀 Entregas recentes
+
+- **Sistema interno de registro de inspeções** — desenvolvido de ponta a ponta,
+  hoje em produção e usado diariamente na empresa
+- **Reestruturação do servidor físico e File Server**, com reorganização completa
+  do Active Directory (GPOs e grupos de segurança)
+- **Monitoramento com Zabbix e Grafana** — disponibilidade de serviços, links e
+  alertas de hardware (iDRAC)
+- **Migração do serviço de e-mail** para VPS dedicada
+- **Automação de rotinas administrativas** em Bash e Python, substituindo
+  processos manuais
 
 ---
 
 ### 🎓 Formação & Carreira
 
-```
-🎓  Pós-graduação em Engenharia de Software e DevOps — PUC Minas (Em andamento)
-🎓  Graduação em Análise e Desenvolvimento de Sistemas — FAESA
-💼  Analista de Infraestrutura — Nexux Lubrificação & Confiabilidade
-```
+💼  DevOps Engineer — Nexux Lubrificação & Confiabilidade (2025 — atual)
+🎓  Pós-graduação em DevOps e Continuous Software Engineering — PUC Minas (em andamento)
+🎓  Tecnólogo em Análise e Desenvolvimento de Sistemas — FAESA (2024)
+📜  Azure DevOps e GitHub · Zabbix 7 · Active Directory Avançado
+
+
+
+---
+
+### 📊 GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Gustavofreitasr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gustavofreitasr&theme=github-dark&hide_border=true)
 
 ---
 
