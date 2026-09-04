@@ -72,5 +72,7 @@ automação, containers e entrega contínua.**
 ### 🎓 Formação & Carreira
 
 💼  DevOps Engineer — Nexux Lubrificação & Confiabilidade (2025 — atual)
+
 🎓  Pós-graduação em DevOps e Continuous Software Engineering — PUC Minas (em andamento)
+
 🎓  Tecnólogo em Análise e Desenvolvimento de Sistemas — FAESA (2024)
