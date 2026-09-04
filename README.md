@@ -74,17 +74,3 @@ automação, containers e entrega contínua.**
 💼  DevOps Engineer — Nexux Lubrificação & Confiabilidade (2025 — atual)
 🎓  Pós-graduação em DevOps e Continuous Software Engineering — PUC Minas (em andamento)
 🎓  Tecnólogo em Análise e Desenvolvimento de Sistemas — FAESA (2024)
-📜  Azure DevOps e GitHub · Zabbix 7 · Active Directory Avançado
-
-
-
----
-
-### 📊 GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Gustavofreitasr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gustavofreitasr&theme=github-dark&hide_border=true)
-
----
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Gustavofreitasr.Gustavofreitasr)
